@@ -16,7 +16,7 @@ val hashMap1:HashMap<String,String> = HashMap<String,String>()
     hashMap1.put("Power of Superman","100")
    
   
-    println("---------Hero who has 100 power---------")  
+    println("---------Detail of Hero---------")  
     for(key in hashMap1.keys){  
         println(" $key - ${hashMap1[key]}")  
-    }}  
+    }} 
