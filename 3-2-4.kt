@@ -16,9 +16,6 @@ fun main(args: Array<String>){
         superhero.put("ironman", hero2);
     
         superhero.put("hulk", hero3);
-      
-    val keyList = ArrayList(superhero.keys)
-    val valueList = ArrayList(superhero.values)
 
     
     for(key in superhero.keys){  
